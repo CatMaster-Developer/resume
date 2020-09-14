@@ -1,4 +1,4 @@
-# 이력서
+# 이은택
 
 Github : https://github.com/yoonhg84
 
@@ -48,11 +48,24 @@ Github : https://github.com/yoonhg84
 
 - 소속 : 빅솔론
 - 역할 : iOS App 개발
-- Skill : Swift, Realm, Snapkit, RxSwift, RxCocoa, Action Extension, git, carthage
+- Skill : Swift, Realm, CoreData(old version)  Snapkit, RxSwift, RxCocoa, Action Extension, non-storyboard  git, carthage
 - 내용
   - Action Extension 을 제공하여 3rt Party App에서 프린터 인쇄 기능 지원
 - AppStore Link (https://apps.apple.com/app/id1439539765)
   <img src="images/mPrint Screen1.png" width="160"/><img src="images/mPrint Screen2.png" width="160"/><img src="images/mPrint Screen3.png" width="160"/><img src="images/mPrint Screen4.png" width="160"/><img src="images/mPrint Screen5.png" width="160"/><img src="images/mPrint Screen6.png" width="160"/>
+
+
+###  mPrint Server
+
+- 소속 : 빅솔론
+- 역할 : iOS App 개발
+- Skill : Swift, Realm, AutoLayout(Storyboard), Javascript, REST API, javascript git, cocoapods
+- 내용
+  - WebServer를 지원하는 WebApp 개발
+  - Sample Web 개발
+- AppStore Link (https://apps.apple.com/app/id1472321772)
+- Web Sample Link (http://bixolon.com/common/mPrintService/Sample_PosPrinter.html)
+  <img src="images/mPrintServer Screen1.png" width="160"/><img src="images/mPrintServer Screen2.png" width="160"/><img src="images/mPrintServer Screen3.png" width="160"/><img src="images/mPrintServer Screen4.png" width="160"/>
 
 
 
