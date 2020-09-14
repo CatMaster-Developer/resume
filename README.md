@@ -22,11 +22,11 @@ Github : https://github.com/yoonhg84
 - 역할 : iOS SDK 리팩토링, Sample App 개발
 - Skill : Objective-C, Swift, iOS, Unit test
 - 내용 
- - 외부 Header 파일 제외한 내부 코드 재구현
- - MRC -> ARC 
- - 누락된 API 구현 및 Deprecate
- - 다중 프린터 동시 연결 기능 지원
- - Sample App 구현 ( Obj-C / Swift )
+  - 외부 Header 파일 제외한 내부 코드 재구현
+  - MRC -> ARC
+  - 누락된 API 구현 및 Deprecate
+  - 다중 프린터 동시 연결 기능 지원
+  - Sample App 구현 ( Obj-C / Swift )
 - DownLoad Link (https://www.bixolon.com/_lib/download_single.php?FILE_INFO=sdk|sdk_file|sdk_idx|30|sdk)
 
 <img src="upos sdk screen.png" width="260"/>
