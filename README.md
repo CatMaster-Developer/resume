@@ -7,7 +7,7 @@ Github : https://github.com/yoonhg84
 [빅솔론](https://bixolon.com/kr/)
 - 과장 - 2016/02 ~ 재직중
 
-[GNSD]
+[GNSD]()
 - 주임 - 2014/12 ~ 2016/02
 
 [m3mobile](http://www.m3mobile.co.kr/)
