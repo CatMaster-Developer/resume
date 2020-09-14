@@ -29,7 +29,7 @@ Github : https://github.com/yoonhg84
   - Sample App 구현 ( Obj-C / Swift )
 - DownLoad Link (https://www.bixolon.com/_lib/download_single.php?FILE_INFO=sdk|sdk_file|sdk_idx|30|sdk)
 
-<img src="upos sdk screen.png" width="260"/>
+<img src="images/upos sdk screen.png" width="260"/>
 
 
 
