@@ -125,20 +125,6 @@ Mail : letzzang@gmail.com
 
   <img src="images/EasySetup Screen1.png" width="160"/><img src="images/EasySetup Screen2.png" width="160"/><img src="images/EasySetup Screen3.png" width="160"/>
 
-
-
-
-###  Easy Setup Utility
-
-- 소속 : 빅솔론
-- 역할 : iOS App 개발
-- Skill : Objective-C, Sqlite, AutoLayout(Storyboard), git
-- 내용
-  - 빅솔론 프린터 설정 기능을 지원
-- AppStore Link (서비스 종료 -> Bixolon Utility 대체)
-
-  <img src="images/EasySetup Screen1.png" width="160"/><img src="images/EasySetup Screen2.png" width="160"/><img src="images/EasySetup Screen3.png" width="160"/>
-  
   
 
   ###  포드 AVN 개발 
