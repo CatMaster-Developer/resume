@@ -149,7 +149,7 @@ Mail : letzzang@gmail.com
   - 내용
     - Linux 기반 AVN(audio video navigation) 개발 중 Bluetooth / Setting / DVD 모듈 개발
     
-  <img src="images/GNSD Screen1.jpg" width="260"/><img src="images/GNSD Screen1.jpg" width="260"/><img src="images/GNSD Screen1.jpg" width="260"/>
+  <img src="images/GNSD Screen1.jpg" width="260"/><img src="images/GNSD Screen2.jpg" width="260"/><img src="images/GNSD Screen3.jpg" width="260"/>
     
     
 
