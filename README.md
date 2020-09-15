@@ -77,7 +77,7 @@ Mail : letzzang@gmail.com
   - Action Extension 을 제공하여 3rt Party App에서 프린터 인쇄 기능 지원
 - AppStore Link (https://apps.apple.com/app/id1439539765)
 
-  <img src="images/mPrint Screen1.png" width="160"/><img src="images/mPrint Screen2.png" width="160"/><img src="images/mPrint Screen3.png" width="160"/><img src="images/mPrint Screen4.png" width="160"/><img src="images/mPrint Screen5.png" width="160"/><img src="images/mPrint Screen6.png" width="160"/>
+  <img src="images/mPrint Screen1.png" width="160"/><img src="images/mPrint Screen2.png" width="160"/><img src="images/mPrint Screen3.png" width="160"/><img src="images/mPrint Screen4.png" width="160"/><img src="images/mPrint Screen5.png" width="160"/>
 
 
 
@@ -93,7 +93,7 @@ Mail : letzzang@gmail.com
 - AppStore Link (https://apps.apple.com/app/id1472321772)
 - Web Sample Link (http://bixolon.com/common/mPrintService/Sample_PosPrinter.html)
 
-  <img src="images/mPrintServer Screen1.png" width="160"/><img src="images/mPrintServer Screen2.png" width="160"/><img src="images/mPrintServer Screen3.png" width="160"/>
+  <img src="images/mPrintServer Screen1.png" width="160"/><img src="images/mPrintServer Screen2.png" width="160"/><img src="images/mPrintServer Screen3.png" width="160"/><img src="images/mPrintServer Screen4.png" width="160"/>
 
 
 
