@@ -1,6 +1,6 @@
 # 이은택
 
-Github : https://github.com/letzzang
+Github : https://github.com/ET-Programmer
 
 Mail : letzzang@gmail.com
 
@@ -31,6 +31,7 @@ Mail : letzzang@gmail.com
 
 
 
+
 ### UPOS SDK(POS 프린터 제어) Refactoring
 
 - 소속 : 빅솔론
@@ -45,6 +46,8 @@ Mail : letzzang@gmail.com
 - DownLoad Link (https://www.bixolon.com/_lib/download_single.php?FILE_INFO=sdk|sdk_file|sdk_idx|30|sdk)
 
 <img src="images/upos sdk screen.png" width="260"/>
+
+
 
 
 ### Label SDK(Label 프린터 제어) Refactoring 
@@ -63,6 +66,8 @@ Mail : letzzang@gmail.com
 <img src="images/LabelSDK Screen1.png" width="160"/><img src="images/LabelSDK Screen2.png" width="160"/><img src="images/LabelSDK Screen3.png" width="160"/><img src="images/LabelSDK Screen4.png" width="160"/>
 
 
+
+
 ###  mPrint
 
 - 소속 : 빅솔론
@@ -73,6 +78,8 @@ Mail : letzzang@gmail.com
 - AppStore Link (https://apps.apple.com/app/id1439539765)
 
   <img src="images/mPrint Screen1.png" width="160"/><img src="images/mPrint Screen2.png" width="160"/><img src="images/mPrint Screen3.png" width="160"/><img src="images/mPrint Screen4.png" width="160"/><img src="images/mPrint Screen5.png" width="160"/><img src="images/mPrint Screen6.png" width="160"/>
+
+
 
 
 ###  mPrint Server
@@ -86,7 +93,10 @@ Mail : letzzang@gmail.com
 - AppStore Link (https://apps.apple.com/app/id1472321772)
 - Web Sample Link (http://bixolon.com/common/mPrintService/Sample_PosPrinter.html)
 
-  <img src="images/mPrintServer Screen1.png" width="160"/><img src="images/mPrintServer Screen2.png" width="160"/><img src="images/mPrintServer Screen3.png" width="160"/><img src="images/mPrintServer Screen4.png" width="160"/>
+  <img src="images/mPrintServer Screen1.png" width="160"/><img src="images/mPrintServer Screen2.png" width="160"/><img src="images/mPrintServer Screen3.png" width="160"/>
+
+
+
 
 
 ###  Bixolon Utility
@@ -99,6 +109,8 @@ Mail : letzzang@gmail.com
 - AppStore Link (https://apps.apple.com/app/id1495617320)
 
   <img src="images/BixolonUtility Screen1.png" width="160"/><img src="images/BixolonUtility Screen2.png" width="160"/><img src="images/BixolonUtility Screen3.png" width="160"/><img src="images/BixolonUtility Screen4.png" width="160"/><img src="images/BixolonUtility Screen5.png" width="160"/>
+
+
 
 
 
@@ -116,6 +128,48 @@ Mail : letzzang@gmail.com
 
 
 
+###  Easy Setup Utility
+
+- 소속 : 빅솔론
+- 역할 : iOS App 개발
+- Skill : Objective-C, Sqlite, AutoLayout(Storyboard), git
+- 내용
+  - 빅솔론 프린터 설정 기능을 지원
+- AppStore Link (서비스 종료 -> Bixolon Utility 대체)
+
+  <img src="images/EasySetup Screen1.png" width="160"/><img src="images/EasySetup Screen2.png" width="160"/><img src="images/EasySetup Screen3.png" width="160"/>
+  
+  
+
+  ###  포드 AVN 개발 
+
+  - 소속 : GNSD
+  - 역할 : Bluetooth / Setting / DVD 모듈 개발
+  - Skill : Linux, QT
+  - 내용
+    - Linux 기반 AVN(audio video navigation) 개발 중 Bluetooth / Setting / DVD 모듈 개발
+    
+  <img src="images/GNSD Screen1.png" width="260"/><img src="images/GNSD Screen2.png" width="260"/><img src="images/GNSD Screen3.png" width="260"/>
+    
+    
+
+###  UNI SDK(Scanner)
+
+- 소속 : M3Mobile
+- 역할 : WinCE Scanner 통합 SDK 개발
+- Skill : C, C++, C#, MFC, 디자인패턴(abstract factory/singleton), svn
+- 내용
+  - 기존 모듈 별로 나뉘어 진 Scanner SDK를 하나의 SDK로 지원
+  - C# SDK 제공(lib import)
+  - MFC
+  
+  ###  UNI SDK(system)
+
+  - 소속 : M3Mobile
+  - 역할 : WinCE System 통합 SDK 개발
+  - Skill : C, C++, C#, MFC, 디자인패턴(abstract factory/singleton), svn
+  - 내용
+    - M3Mobile PDA(단종모델 제외) 시스템 제어 용 SDK 개발
 
 
 
@@ -127,6 +181,25 @@ Mail : letzzang@gmail.com
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
