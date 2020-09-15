@@ -1,6 +1,7 @@
 # 이은택
 
-Github : https://github.com/yoonhg84
+Github : https://github.com/letzzang
+Mail : letzzang@gmail.com
 
 ## 경력
 
