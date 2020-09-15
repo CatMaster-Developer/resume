@@ -149,7 +149,7 @@ Mail : letzzang@gmail.com
   - 내용
     - Linux 기반 AVN(audio video navigation) 개발 중 Bluetooth / Setting / DVD 모듈 개발
     
-  <img src="images/GNSD Screen1.png" width="260"/><img src="images/GNSD Screen2.png" width="260"/><img src="images/GNSD Screen3.png" width="260"/>
+  <img src="images/GNSD Screen1.jpg" width="260"/><img src="images/GNSD Screen1.jpg" width="260"/><img src="images/GNSD Screen1.jpg" width="260"/>
     
     
 
@@ -163,13 +163,13 @@ Mail : letzzang@gmail.com
   - C# SDK 제공(lib import)
   - MFC
   
-  ###  UNI SDK(system)
+###  UNI SDK(system)
 
-  - 소속 : M3Mobile
-  - 역할 : WinCE System 통합 SDK 개발
-  - Skill : C, C++, C#, MFC, 디자인패턴(abstract factory/singleton), svn
-  - 내용
-    - M3Mobile PDA(단종모델 제외) 시스템 제어 용 SDK 개발
+- 소속 : M3Mobile
+- 역할 : WinCE System 통합 SDK 개발
+- Skill : C, C++, C#, MFC, 디자인패턴(abstract factory/singleton), svn
+- 내용
+  - M3Mobile PDA(단종모델 제외) 시스템 제어 용 SDK 개발
 
 
 
