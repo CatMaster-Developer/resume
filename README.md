@@ -111,17 +111,6 @@ Mail : letzzang@gmail.com
   <img src="images/BixolonUtility Screen1.png" width="160"/><img src="images/BixolonUtility Screen2.png" width="160"/><img src="images/BixolonUtility Screen3.png" width="160"/><img src="images/BixolonUtility Screen4.png" width="160"/><img src="images/BixolonUtility Screen5.png" width="160"/>
   
   
-  ###  ICPAY
-
-  - 소속 : 빅솔론
-  - 역할 : iOS App 개발
-  - Skill : Swift, Realm, AutoLayout, Unit test, git, carthage
-  - 내용
-    - 결제앱 개발
-  - AppStore Link (https://apps.apple.com/app/id1139655329
-
-
-
 
 ###  Easy Setup Utility
 
