@@ -31,43 +31,6 @@ Mail : letzzang@gmail.com
 
 
 
-
-### UPOS SDK(POS 프린터 제어) Refactoring
-
-- 소속 : 빅솔론
-- 역할 : iOS SDK 리팩토링, Sample App 개발
-- Skill : Objective-C, Swift, iOS, Unit test, git
-- 내용 
-  - 외부 Header 파일 제외한 내부 코드 재구현
-  - MRC -> ARC
-  - 누락된 API 구현 및 미지원 API Deprecate
-  - 다중 프린터 동시 연결 기능 지원
-  - Sample App 구현 ( Obj-C / Swift )
-- DownLoad Link (https://www.bixolon.com/_lib/download_single.php?FILE_INFO=sdk|sdk_file|sdk_idx|30|sdk)
-
-<img src="images/upos sdk screen.png" width="260"/>
-
-
-
-
-### Label SDK(Label 프린터 제어) Refactoring 
-
-- 소속 : 빅솔론
-- 역할 : iOS SDK 리팩토링, Sample App 개발
-- Skill : Objective-C, Swift, iOS, Unit test, git
-- 내용 
-  - 외부 Header 파일 제외한 내부 코드 재구현
-  - MRC -> ARC
-  - 누락된 API 구현 및 미지원 API Deprecate
-  - 다중 프린터 동시 연결 기능 지원
-  - Sample App 구현 ( Obj-C / Swift )
-- DownLoad Link (https://www.bixolon.com/_lib/download_single.php?FILE_INFO=sdk|sdk_file|sdk_idx|29|sdk)
-
-<img src="images/LabelSDK Screen1.png" width="160"/><img src="images/LabelSDK Screen2.png" width="160"/><img src="images/LabelSDK Screen3.png" width="160"/><img src="images/LabelSDK Screen4.png" width="160"/>
-
-
-
-
 ###  mPrint
 
 - 소속 : 빅솔론
@@ -110,7 +73,57 @@ Mail : letzzang@gmail.com
 
   <img src="images/BixolonUtility Screen1.png" width="160"/><img src="images/BixolonUtility Screen2.png" width="160"/><img src="images/BixolonUtility Screen3.png" width="160"/><img src="images/BixolonUtility Screen4.png" width="160"/><img src="images/BixolonUtility Screen5.png" width="160"/>
   
+<<<<<<< HEAD
   
+=======
+
+### UPOS SDK(POS 프린터 제어) Refactoring
+
+- 소속 : 빅솔론
+- 역할 : iOS SDK 리팩토링, Sample App 개발
+- Skill : Objective-C, Swift, iOS, Unit test, git
+- 내용 
+  - 외부 Header 파일 제외한 내부 코드 재구현
+  - MRC -> ARC
+  - 누락된 API 구현 및 미지원 API Deprecate
+  - 다중 프린터 동시 연결 기능 지원
+  - Sample App 구현 ( Obj-C / Swift )
+- DownLoad Link (https://www.bixolon.com/_lib/download_single.php?FILE_INFO=sdk|sdk_file|sdk_idx|30|sdk)
+
+<img src="images/upos sdk screen.png" width="260"/>
+
+
+
+
+### Label SDK(Label 프린터 제어) Refactoring 
+
+- 소속 : 빅솔론
+- 역할 : iOS SDK 리팩토링, Sample App 개발
+- Skill : Objective-C, Swift, iOS, Unit test, git
+- 내용 
+  - 외부 Header 파일 제외한 내부 코드 재구현
+  - MRC -> ARC
+  - 누락된 API 구현 및 미지원 API Deprecate
+  - 다중 프린터 동시 연결 기능 지원
+  - Sample App 구현 ( Obj-C / Swift )
+- DownLoad Link (https://www.bixolon.com/_lib/download_single.php?FILE_INFO=sdk|sdk_file|sdk_idx|29|sdk)
+
+<img src="images/LabelSDK Screen1.png" width="160"/><img src="images/LabelSDK Screen2.png" width="160"/><img src="images/LabelSDK Screen3.png" width="160"/><img src="images/LabelSDK Screen4.png" width="160"/>
+
+
+###  ICPAY
+
+- 소속 : 빅솔론
+- 역할 : iOS App 개발
+- Skill : Swift, Realm, Sqlite,  Snapkit, RxSwift, RxCocoa, non-storyboard, Unit test, carthage, App To App, Codable
+- 내용
+- 빅솔론 프린터의 카드리더기를 이용해 결제 진행
+- AppStore Link (https://apps.apple.com/app/id1139655329)
+
+<img src="images/ICPAY Screen.png" width="160"/>
+
+
+>>>>>>> resume update
 
 ###  Easy Setup Utility
 
