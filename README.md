@@ -123,8 +123,6 @@ Mail : letzzang@gmail.com
 <img src="images/ICPAY Screen.jpg" width="160"/>
 
 
->>>>>>> resume update
-
 ###  Easy Setup Utility
 
 - 소속 : 빅솔론
