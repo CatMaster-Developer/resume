@@ -120,7 +120,7 @@ Mail : letzzang@gmail.com
 - 빅솔론 프린터의 카드리더기를 이용해 결제 진행
 - AppStore Link (https://apps.apple.com/app/id1139655329)
 
-<img src="images/ICPAY Screen.png" width="160"/>
+<img src="images/ICPAY Screen.jpg" width="160"/>
 
 
 >>>>>>> resume update
