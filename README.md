@@ -6,8 +6,11 @@ Mail : letzzang@gmail.com
 
 ## 경력
 
+[플라이빗](https://flybit.com)
+- 과장 - 2021/03 ~ 재직중
+
 [빅솔론](https://bixolon.com/kr/)
-- 과장 - 2016/02 ~ 재직중
+- 과장 - 2016/02 ~ 2021.02
 
 [GNSD]()
 - 주임 - 2014/12 ~ 2016/02
@@ -18,6 +21,15 @@ Mail : letzzang@gmail.com
 
 ## 회사 프로젝트
 
+### Flybit
+
+- 소속 : 플라이빗
+- 역할 : Flybit iOS 앱 신규 개발 및 유지 보수
+- Skill : Swift, RxSwift, Unit test, git, Realm, firebase, WebSocket, non-storyboard, SPM, RxAlamofire, AutoLayout, RestApi
+- 내용
+  - 가상화폐 거래소 앱인 Flybit iOS 앱 신규개발 및 유지보수
+  
+  <img src="images/Flybit/Flybit_1.PNG" width="160"/><img src="images/Flybit/Flybit_2.PNG" width="160"/><img src="images/Flybit/Flybit_3.PNG" width="160"/><img src="images/Flybit/Flybit_4.PNG" width="160"/><img src="images/Flybit/Flybit_5.PNG" width="160"/><img src="images/Flybit/Flybit_6.PNG" width="160"/><img src="images/Flybit/Flybit_7.PNG" width="160"/><img src="images/Flybit/Flybit_8.PNG" width="160"/><img src="images/Flybit/Flybit_9.PNG" width="160"/><img src="images/Flybit/Flybit_10.PNG" width="160"/><img src="images/Flybit/Flybit_11.PNG" width="160"/><img src="images/Flybit/Flybit_12.PNG" width="160"/><img src="images/Flybit/Flybit_13.PNG" width="160"/><img src="images/Flybit/Flybit_14.PNG" width="160"/><img src="images/Flybit/Flybit_15.PNG" width="160"/><img src="images/Flybit/Flybit_16.PNG" width="160"/><img src="images/Flybit/Flybit_17.PNG" width="160"/>
 
 ### Common Library 개발 < Communicator / Making Data >
 
