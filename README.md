@@ -26,6 +26,7 @@ Mail : letzzang@gmail.com
 - 소속 : 플라이빗
 - 역할 : Flybit iOS 앱 신규 개발 및 유지 보수
 - Skill : Swift, RxSwift, Unit test, git, Realm, firebase, WebSocket, non-storyboard, SPM, RxAlamofire, AutoLayout, RestApi
+- 개발 기간 : 2021.03.21 ~ 2021.05.25
 - 내용
   - 가상화폐 거래소 앱인 Flybit iOS 앱 신규개발 및 유지보수
   
