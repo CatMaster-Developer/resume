@@ -6,8 +6,8 @@ Mail : letzzang@gmail.com
 
 ## 경력
 
-[플라이빗](https://flybit.com)
-- 과장 - 2021/03 ~ 재직중
+[한국디지털거래소](https://flybit.com)
+- 차장 - 2021/03 ~ 재직중
 
 [빅솔론](https://bixolon.com/kr/)
 - 과장 - 2016/02 ~ 2021.02
@@ -23,7 +23,7 @@ Mail : letzzang@gmail.com
 
 ### Flybit
 
-- 소속 : 플라이빗
+- 소속 : 한국 디지털 거래소
 - 역할 : Flybit iOS 앱 신규 개발 및 유지 보수
 - Skill : Swift, RxSwift, Unit test, git, Realm, firebase, WebSocket, non-storyboard, SPM, RxAlamofire, AutoLayout, RestApi
 - 개발 기간 : 2021.03.21 ~ 2021.05.25
