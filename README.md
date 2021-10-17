@@ -29,6 +29,7 @@ Mail : letzzang@gmail.com
 - 개발 기간 : 2021.03.21 ~ 2021.05.25
 - 내용
   - 가상화폐 거래소 앱인 Flybit iOS 앱 신규개발 및 유지보수
+- 앱 동작 영상 Link : https://youtu.be/8OvG8FRRNKI
 - Link : https://apps.apple.com/us/app/flybit/id1570368673
 
   <img src="images/Flybit/Flybit_1.PNG" width="160"/><img src="images/Flybit/Flybit_2.PNG" width="160"/><img src="images/Flybit/Flybit_3.PNG" width="160"/><img src="images/Flybit/Flybit_4.PNG" width="160"/><img src="images/Flybit/Flybit_5.PNG" width="160"/><img src="images/Flybit/Flybit_6.PNG" width="160"/><img src="images/Flybit/Flybit_7.PNG" width="160"/><img src="images/Flybit/Flybit_8.PNG" width="160"/><img src="images/Flybit/Flybit_9.PNG" width="160"/><img src="images/Flybit/Flybit_10.PNG" width="160"/><img src="images/Flybit/Flybit_11.PNG" width="160"/><img src="images/Flybit/Flybit_12.PNG" width="160"/><img src="images/Flybit/Flybit_13.PNG" width="160"/><img src="images/Flybit/Flybit_14.PNG" width="160"/><img src="images/Flybit/Flybit_15.PNG" width="160"/><img src="images/Flybit/Flybit_16.PNG" width="160"/><img src="images/Flybit/Flybit_17.PNG" width="160"/>
