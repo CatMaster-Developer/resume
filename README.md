@@ -27,8 +27,10 @@ Mail : letzzang@gmail.com
 - 역할 : Flybit iOS 앱 신규 개발 및 유지 보수
 - Skill : Swift, RxSwift, Unit test, git, Realm, firebase, WebSocket, non-storyboard, SPM, RxAlamofire, AutoLayout, RestApi
 - 개발 기간 : 2021.03.21 ~ 2021.05.25
+- 재직 기간 : 2021.03.21 ~ 2021.08.31
 - 내용
   - 가상화폐 거래소 앱인 Flybit iOS 앱 신규개발 및 유지보수
+    * 정부 정책에 의한 가상계좌 원화거래 금지정책으로 현재는 거래가 금지되어 있으므로, 동작영상은 하기의 영상을 참고바랍니다. * 
 - 앱 동작 영상 Link : https://youtu.be/8OvG8FRRNKI
 - Link : https://apps.apple.com/us/app/flybit/id1570368673
 
@@ -88,9 +90,6 @@ Mail : letzzang@gmail.com
 
   <img src="images/BixolonUtility Screen1.png" width="160"/><img src="images/BixolonUtility Screen2.png" width="160"/><img src="images/BixolonUtility Screen3.png" width="160"/><img src="images/BixolonUtility Screen4.png" width="160"/><img src="images/BixolonUtility Screen5.png" width="160"/>
   
-<<<<<<< HEAD
-  
-=======
 
 ### UPOS SDK(POS 프린터 제어) Refactoring
 
