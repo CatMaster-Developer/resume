@@ -7,7 +7,7 @@ Mail : letzzang@gmail.com
 ## 경력
 
 [힛잇 주식회사](https://hitit.xyz/)
-- 차장 - 2021/09 ~ 재직중
+- 연구원 - 2021/09 ~ 재직중
 
 [한국디지털거래소](https://flybit.com)
 - 차장 - 2021/03 ~ 2021/08
