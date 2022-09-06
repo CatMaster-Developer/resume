@@ -6,8 +6,11 @@ Mail : letzzang@gmail.com
 
 ## 경력
 
+[힛잇 주식회사](https://hitit.xyz/)
+- 차장 - 2021/09 ~ 재직중
+
 [한국디지털거래소](https://flybit.com)
-- 차장 - 2021/03 ~ 재직중
+- 차장 - 2021/03 ~ 2021/08
 
 [빅솔론](https://bixolon.com/kr/)
 - 과장 - 2016/02 ~ 2021.02
@@ -20,6 +23,20 @@ Mail : letzzang@gmail.com
 
 
 ## 회사 프로젝트
+
+### 힛잇 허브 앱 신규 개발
+
+- 소속 : 힛잇 주식회사
+- 역할 : 힛잇 허브 iPad 앱 신규 개발
+- Skill : Swift, SwiftUI, Combine, firebase, Alamofire, OAuth2.0, Concurrency, MVVM, git, SPM, RestApi, UI Test, Unit test, CI/CD
+- 개발 기간 : 2022.01.01 ~ 2022.09.20
+- 재직 기간 : 2021.09.01 ~ 재직중
+- 내용
+  - 아이패드 전용 포스 어플리케이션 개발
+  - SwiftUI와 Combine, Concurrency 베이스를 기반으로 MVVM 아키텍쳐를 이용하여 개발 
+- 앱 동작 영상 Link : https://youtu.be/k4dtcwUs8rw
+- 앱 동작 영상 Link2 : https://youtu.be/3JvoyJ0Iksw
+
 
 ### Flybit
 
