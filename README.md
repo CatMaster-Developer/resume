@@ -28,15 +28,18 @@ Mail : letzzang@gmail.com
 
 - 소속 : 힛잇 주식회사
 - 역할 : 힛잇 허브 iPad 앱 신규 개발
-- Skill : Swift, SwiftUI, Combine, firebase, Alamofire, OAuth2.0, Concurrency, MVVM, git, SPM, RestApi, UI Test, Unit test, CI/CD
+- Skill : Swift, SwiftUI, Combine, firebase, Alamofire, OAuth2.0, Concurrency, MVVM, Socket, git, SPM, RestApi, UI Test, Unit test, CI/CD
 - 개발 기간 : 2022.01.01 ~ 2022.09.20
 - 재직 기간 : 2021.09.01 ~ 재직중
 - 내용
   - 아이패드 전용 포스 어플리케이션 개발
-  - SwiftUI와 Combine, Concurrency 베이스를 기반으로 MVVM 아키텍쳐를 이용하여 개발 
+  - View는 SwiftUI로 개발
+  - Business logic은 Combine, Concurrency 베이스를 기반으로 MVVM 아키텍쳐를 이용하여 개발
+  - 장치와 통신은 Socket 통신으로 개발
 - 앱 동작 영상 Link : https://youtu.be/k4dtcwUs8rw
 - 앱 동작 영상 Link2 : https://youtu.be/3JvoyJ0Iksw
 
+  <img src="images/hub/1.png" width="160"/><img src="images/hub/2.png" width="160"/><img src="images/hub/3.png" width="160"/><img src="images/hub/4.png" width="160"/><img src="images/hub/5.png" width="160"/><img src="images/hub/6.png" width="160"/><img src="images/hub/7.png" width="160"/>
 
 ### Flybit
 
